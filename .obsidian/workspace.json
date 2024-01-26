@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+                "file": "_posts/2024-01-24-python의-테스트-unittest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+                "file": "_posts/2024-01-24-python의-테스트-unittest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+                "file": "_posts/2024-01-24-python의-테스트-unittest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md"
+                "file": "_posts/2024-01-24-python의-테스트-unittest.md"
               }
             }
           }
@@ -148,21 +148,23 @@
   },
   "active": "63158b43f64f4255",
   "lastOpenFiles": [
-    "assets/img/20240121.png",
+    "_site/posts/python의-테스트-unittest/index.html",
+    "_site/posts/python의-테스트-unittest",
+    "_site/tags/bdd/index.html",
+    "_site/tags/bdd",
+    "_site/tags/tdd/index.html",
+    "_site/tags/tdd",
+    "_site/tags/junit/index.html",
+    "_site/tags/junit",
+    "_site/tags/test/index.html",
+    "_site/tags/test",
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+    "_posts/2024-01-24-python의-테스트-unittest.md",
+    "_posts/_templates/post.md",
+    "assets/img/20240121.png",
     "_site/assets/img/20240121.png",
     "assets/img/20240116123204.png",
     "_site/posts/python-coroutine과-task,-그리고-asyncio에-대하여/index.html",
-    "_site/posts/python-coroutine과-task,-그리고-asyncio에-대하여",
-    "_site/categories/python/index.html",
-    "_site/categories/python",
-    "_site/tags/비동기/index.html",
-    "_site/tags/비동기",
-    "_site/tags/async/index.html",
-    "_site/tags/async",
-    "_site/tags/coroutine/index.html",
-    "_site/tags/coroutine",
-    "_posts/_templates/post.md",
     "_tabs/about.md",
     "_tabs/archives.md",
     "_tabs/about.md.md",
