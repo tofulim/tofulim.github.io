@@ -148,6 +148,8 @@
   },
   "active": "63158b43f64f4255",
   "lastOpenFiles": [
+    "robots.txt",
+    "_site/robot.txt",
     "robot.txt",
     "_site/posts/python의-테스트-unittest/index.html",
     "_site/posts/python의-테스트-unittest",
@@ -157,8 +159,6 @@
     "_site/tags/tdd",
     "_site/tags/junit/index.html",
     "_site/tags/junit",
-    "_site/tags/test/index.html",
-    "_site/tags/test",
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
     "_posts/2024-01-24-python의-테스트-unittest.md",
     "_posts/_templates/post.md",
