@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcee54575d03456d",
+        "id": "0be8ac430de2ecaf",
         "type": "tabs",
         "children": [
           {
-            "id": "63158b43f64f4255",
+            "id": "aa69c9ea65faadca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-24-python의-테스트-unittest.md",
+                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-24-python의-테스트-unittest.md",
+                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-24-python의-테스트-unittest.md",
+                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-01-24-python의-테스트-unittest.md"
+                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md"
               }
             }
           }
@@ -146,31 +146,32 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "63158b43f64f4255",
+  "active": "aa69c9ea65faadca",
   "lastOpenFiles": [
+    "_site/posts/openai-client를-사용할-때-memory-leak/index.html",
+    "_site/posts/openai-client를-사용할-때-memory-leak",
+    "_site/assets/img/openai-thumbnail.png",
+    "_site/tags/gpt4/index.html",
+    "_site/tags/gpt4",
+    "_site/tags/chatgpt/index.html",
+    "_site/tags/chatgpt",
+    "_site/tags/openai/index.html",
+    "_site/tags/openai",
+    "assets/img/avatar.png",
+    "assets/img/openai-thumbnail.png",
+    "assets/img/0115thumbnail.png",
+    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
+    "_posts/2024-01-24-python의-테스트-unittest.md",
     "_site/assets/img/renoir3.png",
     "assets/img/renoir3.png",
     "_site/assets/renoir3.png",
     "assets/renoir3.png",
     "_site/renoir3.png",
     "renoir3.png",
-    "_site/assets/img/renoir2.png",
-    "assets/img/renoir2.png",
-    "_site/assets/renoir2.png",
-    "assets/renoir2.png",
-    "_site/renoir2.png",
     "robots.txt",
     "_site/robot.txt",
     "robot.txt",
-    "_site/posts/python의-테스트-unittest/index.html",
-    "_site/posts/python의-테스트-unittest",
-    "_site/tags/bdd/index.html",
-    "_site/tags/bdd",
-    "_site/tags/tdd/index.html",
-    "_site/tags/tdd",
-    "_site/tags/junit/index.html",
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
-    "_posts/2024-01-24-python의-테스트-unittest.md",
     "_posts/_templates/post.md",
     "_tabs/about.md",
     "_tabs/archives.md",
