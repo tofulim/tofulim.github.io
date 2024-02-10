@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0be8ac430de2ecaf",
+        "id": "6696283161fc7cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "aa69c9ea65faadca",
+            "id": "0b736d095252ccef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
+                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "28a72138cd70a2d5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
+                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
+                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md"
+                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md"
               }
             }
           }
@@ -146,8 +147,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aa69c9ea65faadca",
+  "active": "0b736d095252ccef",
   "lastOpenFiles": [
+    "().md",
+    "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+    "_posts/2024-01-24-python의-테스트-unittest.md",
+    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
     "_site/posts/openai-client를-사용할-때-memory-leak/index.html",
     "_site/posts/openai-client를-사용할-때-memory-leak",
     "_site/assets/img/openai-thumbnail.png",
@@ -160,8 +166,6 @@
     "assets/img/avatar.png",
     "assets/img/openai-thumbnail.png",
     "assets/img/0115thumbnail.png",
-    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
-    "_posts/2024-01-24-python의-테스트-unittest.md",
     "_site/assets/img/renoir3.png",
     "assets/img/renoir3.png",
     "_site/assets/renoir3.png",
@@ -170,8 +174,6 @@
     "renoir3.png",
     "robots.txt",
     "_site/robot.txt",
-    "robot.txt",
-    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
     "_posts/_templates/post.md",
     "_tabs/about.md",
     "_tabs/archives.md",
