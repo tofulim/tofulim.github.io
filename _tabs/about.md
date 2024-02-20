@@ -5,7 +5,7 @@ order: 4
 ---
 # **Dohoon <span style="color:orange">Lim</span>**
 
-- <!--email: [vail131@naver.com](vail131@naver.com) -->
+- email: vail131@naver.com
 - blog: [git blog](https://tofulim.github.io/) / [naver blog](https://blog.naver.com/vail131)
 - git: [link](https://github.com/tofulim)
 - linkedin: [link](https://www.linkedin.com/in/%EB%8F%84%ED%9B%88-%EC%9E%84-33580221a/)
