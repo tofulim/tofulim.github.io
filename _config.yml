@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: tofulim's IT blog # the main title
 
-tagline: 호기심과 어려움을 해결하며 얻는 즐거움과 괴로움을 업로드 합니다.  # it will display as the sub-title
+tagline: 성실함은 기본, 효율적으로 살아야 지속가능한 삶이다.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  호기심과 어려움을 해결하며 얻는 즐거움과 괴로움을 업로드 합니다.
+  성실함에 효율성을 더한, 지속가능한 삶.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6696283161fc7cc8",
+        "id": "7de72749b9b6687e",
         "type": "tabs",
         "children": [
           {
-            "id": "0b736d095252ccef",
+            "id": "3ca378e6cefe4445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+                "file": "_tabs/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "28a72138cd70a2d5",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+                "file": "_tabs/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+                "file": "_tabs/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md"
+                "file": "_tabs/about.md"
               }
             }
           }
@@ -147,10 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0b736d095252ccef",
+  "active": "3ca378e6cefe4445",
   "lastOpenFiles": [
-    "().md",
+    "_tabs/about.md",
+    "_site/().md",
+    "_posts/이력서.md",
+    "_site/posts/시계열분석-ARIMA-예측모델에-대하여(1)/index.html",
+    "_site/posts/시계열분석-ARIMA-예측모델에-대하여(1)",
+    "_site/tags/tag/index.html",
+    "_site/tags/tag",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+    "().md",
     "_posts/2024-01-24-python의-테스트-unittest.md",
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
     "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
@@ -161,8 +167,6 @@
     "_site/tags/gpt4",
     "_site/tags/chatgpt/index.html",
     "_site/tags/chatgpt",
-    "_site/tags/openai/index.html",
-    "_site/tags/openai",
     "assets/img/avatar.png",
     "assets/img/openai-thumbnail.png",
     "assets/img/0115thumbnail.png",
@@ -172,10 +176,7 @@
     "assets/renoir3.png",
     "_site/renoir3.png",
     "renoir3.png",
-    "robots.txt",
-    "_site/robot.txt",
     "_posts/_templates/post.md",
-    "_tabs/about.md",
     "_tabs/archives.md",
     "_tabs/about.md.md",
     "_site/tabs/about.md.md",

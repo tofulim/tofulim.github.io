@@ -3,5 +3,12 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  }
 }
