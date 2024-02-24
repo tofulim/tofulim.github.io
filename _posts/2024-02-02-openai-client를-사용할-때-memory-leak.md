@@ -1,6 +1,6 @@
 ---
 categories:
-  - etc
+  - server
 tags:
   - openai
   - chatgpt
