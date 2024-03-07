@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e840af3ccd32afd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "28a72138cd70a2d5",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -160,10 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ae36d2de23c15b58",
+  "active": "e840af3ccd32afd5",
   "lastOpenFiles": [
-    "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
     "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+    "conflict-files-obsidian-git.md",
+    "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
     "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
     "_posts/2024-01-12-블로그-이전.md",
     "_tabs/about.md",
