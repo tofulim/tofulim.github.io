@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae36d2de23c15b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "28a72138cd70a2d5",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+                "file": "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+                "file": "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md"
+                "file": "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md"
               }
             }
           }
@@ -146,11 +160,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3ca378e6cefe4445",
+  "active": "ae36d2de23c15b58",
   "lastOpenFiles": [
-    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
-    "_tabs/about.md",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+    "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
+    "_posts/2024-01-12-블로그-이전.md",
+    "_tabs/about.md",
     "_site/().md",
     "_posts/이력서.md",
     "_site/posts/시계열분석-ARIMA-예측모델에-대하여(1)/index.html",
@@ -181,7 +197,6 @@
     "_tabs/about.md.md",
     "_site/tabs/about.md.md",
     "_posts/2024-01-15-RDS를-S3에-백업하기.md",
-    "_posts/2024-01-12-블로그-이전.md",
     "2024-01-15.md"
   ]
 }
