@@ -32,7 +32,7 @@ order: 4
 
 ---
 ## **<span style="color:orange">Awa</span>rds**
-- 2023 AI Grand Challenge Level 2, 8rd Place
+- 2023 AI Grand Challenge Level 2, 8th Place
 - 2022 AI Grand Challenge, 3rd Place
 - 2021 National Institute of the Korean Language AI Evaluation Contest, 1st Prize
 - 2020 AngelHack Seoul, 1st Prize
