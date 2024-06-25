@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae36d2de23c15b58",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_posts/스크린샷 2024-06-25 오후 12.56.22.png"
-              }
-            }
           }
         ]
       }
@@ -158,13 +148,13 @@
   },
   "active": "3ca378e6cefe4445",
   "lastOpenFiles": [
+    "_posts/스크린샷 2024-06-25 오후 12.56.22.png",
+    "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
     "_posts/스크린샷 2024-06-26 오전 7.57.16.png",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
-    "_posts/스크린샷 2024-06-25 오후 12.56.22.png",
     "_posts/Pasted image 20240625130214.png",
     "_posts/Pasted image 20240625130053.png",
     "_posts/Pasted image 20240625125528.png",
-    "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
     "_posts/2024-01-12-블로그-이전.md",
     "_posts/_templates/post.md",
     "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
@@ -194,7 +184,6 @@
     "assets/img/openai-thumbnail.png",
     "assets/img/0115thumbnail.png",
     "_site/assets/img/renoir3.png",
-    "assets/img/renoir3.png",
     "_tabs/archives.md",
     "_tabs/about.md.md",
     "_site/tabs/about.md.md",
