@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7de72749b9b6687e",
+        "id": "3b07c42d95a01ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca378e6cefe4445",
+            "id": "e6e99804a11f45c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3ca378e6cefe4445",
+  "active": "e6e99804a11f45c7",
   "lastOpenFiles": [
-    "_posts/스크린샷 2024-06-25 오후 12.56.22.png",
+    "assets/img/240625.png",
+    "assets/img/0115thumbnail.png",
+    "assets/img/renoir2.png",
+    "assets/img/20240116123118.png",
+    "assets/img/20240116123204.png",
     "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
+    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+    "_posts/스크린샷 2024-06-25 오후 12.56.22.png",
     "_posts/스크린샷 2024-06-26 오전 7.57.16.png",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
     "_posts/Pasted image 20240625130214.png",
@@ -160,7 +166,6 @@
     "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
     "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
-    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
     "_posts/2024-01-15-RDS를-S3에-백업하기.md",
     "_posts/_templates",
     "README.md",
@@ -180,10 +185,6 @@
     "_posts/이력서.md",
     "_posts/2024-01-24-python의-테스트-unittest.md",
     "_site/assets/img/openai-thumbnail.png",
-    "assets/img/avatar.png",
-    "assets/img/openai-thumbnail.png",
-    "assets/img/0115thumbnail.png",
-    "_site/assets/img/renoir3.png",
     "_tabs/archives.md",
     "_tabs/about.md.md",
     "_site/tabs/about.md.md",
