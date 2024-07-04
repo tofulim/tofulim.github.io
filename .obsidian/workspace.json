@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b07c42d95a01ae1",
+        "id": "4cf538116f594fb9",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e99804a11f45c7",
+            "id": "887c125532e8f277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
+                "file": "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
+                "file": "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
+                "file": "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md"
+                "file": "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md"
               }
             }
           }
@@ -146,26 +146,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b8ec295cfb23632",
+  "active": "887c125532e8f277",
   "lastOpenFiles": [
-    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
+    "assets/img/CP00013489_20230227152404.png",
     "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
+    "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
+    "assets/img/240625.png",
+    "assets/img/240627.jpg",
+    "assets/img/renoir2.png",
+    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_posts/_templates/post.md",
     "_posts/2024-01-12-블로그-이전.md",
     "_posts/2024-01-15-RDS를-S3에-백업하기.md",
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
     "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
-    "assets/img/240625.png",
     "assets/img/0115thumbnail.png",
-    "assets/img/renoir2.png",
     "assets/img/20240116123118.png",
     "assets/img/20240116123204.png",
     "_posts/스크린샷 2024-06-25 오후 12.56.22.png",
     "_posts/스크린샷 2024-06-26 오전 7.57.16.png",
     "_posts/Pasted image 20240625130214.png",
     "_posts/Pasted image 20240625130053.png",
-    "_posts/Pasted image 20240625125528.png",
     "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
     "_posts/_templates",
     "README.md",
