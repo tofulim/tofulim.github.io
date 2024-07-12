@@ -27,8 +27,12 @@ order: 4
 - Safety 팀 NLP Engineer
 
 #### 튜닙 (정규직)
-- 2022.06.27 - 
+- 2022.06.27 - 2024.06.14
 - AI 팀 Engineer / 챗봇 API 개발 관리팀 Engineer
+
+#### 디메타
+- 2024.06.17 - 
+- AI 팀 Engineer
 
 ---
 ## **<span style="color:orange">Awa</span>rds**
