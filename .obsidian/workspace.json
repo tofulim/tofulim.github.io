@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93ee450250505930",
+        "id": "426848678ffa1154",
         "type": "tabs",
         "children": [
           {
-            "id": "ebabdb84afad5c7d",
+            "id": "5fa46f63e02b68a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-17-메시지큐에-대하여.md",
+                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-17-메시지큐에-대하여.md",
+                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-17-메시지큐에-대하여.md",
+                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-17-메시지큐에-대하여.md"
+                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ebabdb84afad5c7d",
+  "active": "4b8ec295cfb23632",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "_posts/Pasted image 20240724125202.png",
+    "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+    "_posts/Pasted image 20240724124332.png",
+    "_posts/Pasted image 20240724124836.png",
+    "_posts/Pasted image 20240724124405.png",
+    "_posts/Pasted image 20240724124341.png",
     "_posts/2024-07-17-메시지큐에-대하여.md",
+    "conflict-files-obsidian-git.md",
     "_posts/2024-07-15-AMQP에-대하여.md",
     "assets/img/240715_amqp.png",
     "_posts/2024-07-05-python의-모듈테스트-unittest.md",
@@ -161,8 +167,6 @@
     "assets/img/240627.jpg",
     "assets/img/CP00013489_20230227152404.png",
     "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
-    "assets/img/240625.png",
-    "assets/img/renoir2.png",
     "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_posts/_templates/post.md",
     "_posts/2024-01-12-블로그-이전.md",
@@ -170,9 +174,6 @@
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
     "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
-    "assets/img/0115thumbnail.png",
-    "assets/img/20240116123118.png",
-    "assets/img/20240116123204.png",
     "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
     "_posts/_templates",
     "().md",
