@@ -72,6 +72,7 @@ cv2.waitKey(0)
 ```
 
 
+![](https://i.imgur.com/ROjhGRv.png)
 
 로컬에서 별도의 XQuartz 창이 뜨면서 remote에서 수행한 GUI 요청 정보가 넘어온다.
 

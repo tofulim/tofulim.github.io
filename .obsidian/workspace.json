@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
+                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
+                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
+                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md"
+                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c4b6f82b9f7852f8",
+  "active": "4b8ec295cfb23632",
   "lastOpenFiles": [
+    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
     "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
     "Pasted image 20240813124356.png.md",
     "_posts/Pasted image 20240820081855.png",
     "_posts/Pasted image 20240820084201.png",
     "_posts/Pasted image 20240820081514.png",
     "_posts/Pasted image 20240814081402.png",
-    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
     "_posts/Pasted image 20240820081327.png",
     "_posts/Pasted image 20240820081235.png",
     "_posts/Pasted image 20240820081202.png",
