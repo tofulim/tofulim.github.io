@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "426848678ffa1154",
+        "id": "e6548c4118e6e5b8",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa46f63e02b68a2",
+            "id": "c4b6f82b9f7852f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md"
+                "file": "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md"
               }
             }
           }
@@ -146,27 +146,32 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5fa46f63e02b68a2",
+  "active": "c4b6f82b9f7852f8",
   "lastOpenFiles": [
-    "robots.txt",
-    "_posts/Pasted image 20240724125202.png",
+    "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
+    "Pasted image 20240813124356.png.md",
+    "_posts/Pasted image 20240820081855.png",
+    "_posts/Pasted image 20240820084201.png",
+    "_posts/Pasted image 20240820081514.png",
+    "_posts/Pasted image 20240814081402.png",
+    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
+    "_posts/Pasted image 20240820081327.png",
+    "_posts/Pasted image 20240820081235.png",
+    "_posts/Pasted image 20240820081202.png",
+    "_posts/Pasted image 20240820080051.png",
+    "Pasted image 20240813125442.png.md",
+    "_posts/Pasted image 20240813142229.png",
+    "_posts/Pasted image 20240813142312.png",
+    "().md",
     "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
-    "_posts/Pasted image 20240724124332.png",
-    "_posts/Pasted image 20240724124836.png",
-    "_posts/Pasted image 20240724124405.png",
-    "_posts/Pasted image 20240724124341.png",
+    "robots.txt",
     "_posts/2024-07-17-메시지큐에-대하여.md",
     "conflict-files-obsidian-git.md",
     "_posts/2024-07-15-AMQP에-대하여.md",
-    "assets/img/240715_amqp.png",
     "_posts/2024-07-05-python의-모듈테스트-unittest.md",
     "_tabs/about.md",
     "README.md",
-    "assets/img/openai-thumbnail.png",
-    "assets/img/240709_unittest.png",
     "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
-    "assets/img/240627.jpg",
-    "assets/img/CP00013489_20230227152404.png",
     "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
     "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_posts/_templates/post.md",
@@ -177,7 +182,6 @@
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
     "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
     "_posts/_templates",
-    "().md",
     "_site/posts/시계열분석-Prophet-예측모델에-대하여(3)/index.html",
     "_site/posts/시계열분석-Prophet-예측모델에-대하여(3)",
     "_site/posts/시계열분석-ARIMA-예측모델에-대하여(2)/index.html",
@@ -186,13 +190,9 @@
     "_site/categories/ml",
     "_site/categories/server/index.html",
     "_site/categories/server",
-    "_site/tags/meta/index.html",
     "_site/().md",
     "_posts/이력서.md",
     "_posts/2024-01-24-python의-테스트-unittest.md",
-    "_tabs/archives.md",
-    "_tabs/about.md.md",
-    "_site/tabs/about.md.md",
-    "2024-01-15.md"
+    "_tabs/archives.md"
   ]
 }

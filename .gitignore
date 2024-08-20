@@ -21,4 +21,4 @@ package-lock.json
 
 # Misc
 # assets/js/dist
-# _posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md
+_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기
