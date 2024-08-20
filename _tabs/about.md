@@ -12,27 +12,30 @@ order: 4
 
 ---
 ## **<span style="color:orange">Edu</span>cation**
-#### 인천대학교
-- 2015.03 - 2021.02
-- 컴퓨터공학과 (3.64 / 4.5)
 
 #### 부스트캠프 AI Tech 1기
 - 2021.01.18 - 2021.06.22
 - 네이버 커넥트재단 주관
 
+#### 인천대학교
+- 2015.03 - 2021.02
+- 컴퓨터공학과 (3.64 / 4.5)
+
 ---
 ## **<span style="color:orange">Car</span>eer**
-#### 튜닙 (인턴)
-- 2021.12.27 - 2022.06.26
-- Safety 팀 NLP Engineer
+
+#### 디메타
+- 2024.06.17 - 
+- AI 팀 Engineer
 
 #### 튜닙 (정규직)
 - 2022.06.27 - 2024.06.14
 - AI 팀 Engineer / 챗봇 API 개발 관리팀 Engineer
 
-#### 디메타
-- 2024.06.17 - 
-- AI 팀 Engineer
+#### 튜닙 (인턴)
+- 2021.12.27 - 2022.06.26
+- Safety 팀 NLP Engineer
+
 
 ---
 ## **<span style="color:orange">Awa</span>rds**

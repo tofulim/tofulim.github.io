@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
+                "file": "_tabs/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
+                "file": "_tabs/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
+                "file": "_tabs/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md"
+                "file": "_tabs/about.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b8ec295cfb23632",
+  "active": "c4b6f82b9f7852f8",
   "lastOpenFiles": [
-    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
+    "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
+    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
+    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
     "Pasted image 20240813124356.png.md",
     "_posts/Pasted image 20240820081855.png",
     "_posts/Pasted image 20240820084201.png",
@@ -173,7 +175,6 @@
     "README.md",
     "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
     "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
-    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_posts/_templates/post.md",
     "_posts/2024-01-12-블로그-이전.md",
     "_posts/2024-01-15-RDS를-S3에-백업하기.md",
@@ -192,7 +193,6 @@
     "_site/categories/server",
     "_site/().md",
     "_posts/이력서.md",
-    "_posts/2024-01-24-python의-테스트-unittest.md",
-    "_tabs/archives.md"
+    "_posts/2024-01-24-python의-테스트-unittest.md"
   ]
 }
