@@ -51,6 +51,17 @@ google_site_verification: 2m9FyTI2Uj-QjdRaxXjTFHj40C34Q1vvtWKPPbR92a8 # fill in 
 google_analytics:
   id: 'G-GBLLBHZTWH' # fill in your Google Analytics ID
 
+# Web Analytics Settings
+analytics:
+  google:
+    id: 
+  goatcounter:
+    id: tofu  # fill in your GoatCounter ID
+
+# Pageviews settings
+pageviews:
+  provider: goatcounter # now only supports 'goatcounter'
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
