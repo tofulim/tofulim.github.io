@@ -48,11 +48,13 @@ google_site_verification: 2m9FyTI2Uj-QjdRaxXjTFHj40C34Q1vvtWKPPbR92a8 # fill in 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: 'G-GBLLBHZTWH' # fill in your Google Analytics ID
+# google_analytics:
+#   id: 'G-GBLLBHZTWH' # fill in your Google Analytics ID
 
 # Web Analytics Settings
 analytics:
+  google:
+    id: 'G-GBLLBHZTWH'
   goatcounter:
     id: tofu-lover131  # fill in your GoatCounter ID
 
