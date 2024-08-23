@@ -25,7 +25,7 @@ order: 4
 ## **<span style="color:orange">Car</span>eer**
 
 #### 디메타
-- 2024.06.17 - 
+- 2024.06.17 -  
 - AI 팀 Engineer
 
 #### 튜닙 (정규직)
