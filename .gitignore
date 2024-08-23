@@ -5,8 +5,8 @@ Gemfile.lock
 
 # Jekyll cache
 .jekyll-cache
+.jekyll-metadata
 _site
-_posts/_templates
 
 # RubyGems
 *.gem
@@ -17,8 +17,12 @@ package-lock.json
 
 # IDE configurations
 .idea
-.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
 
 # Misc
-# assets/js/dist
-#_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md
+_sass/dist
+assets/js/dist
+_app
