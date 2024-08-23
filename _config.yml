@@ -53,8 +53,6 @@ google_analytics:
 
 # Web Analytics Settings
 analytics:
-  google:
-    id: 
   goatcounter:
     id: tofu-lover131  # fill in your GoatCounter ID
 
