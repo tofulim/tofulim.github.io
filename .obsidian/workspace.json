@@ -161,6 +161,11 @@
   },
   "active": "ae36d2de23c15b58",
   "lastOpenFiles": [
+    "assets/img/240813_aws.png",
+    "assets/img/20240820.webp",
+    "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
+    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
+    "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
     "_posts/Pasted image 20240824102647.png",
     "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
     "_posts/2024-01-12-블로그-이전.md",
@@ -201,10 +206,6 @@
     "_posts/2024-01-24-python의-테스트-unittest.md",
     "_site/assets/img/openai-thumbnail.png",
     "assets/img/avatar.png",
-    "assets/img/openai-thumbnail.png",
-    "assets/img/0115thumbnail.png",
-    "_tabs/archives.md",
-    "_tabs/about.md.md",
-    "_site/tabs/about.md.md"
+    "assets/img/openai-thumbnail.png"
   ]
 }
