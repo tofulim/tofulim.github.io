@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "426848678ffa1154",
+        "id": "7de72749b9b6687e",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa46f63e02b68a2",
+            "id": "3ca378e6cefe4445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+                "file": "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae36d2de23c15b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md"
+                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md"
               }
             }
           }
@@ -146,38 +159,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5fa46f63e02b68a2",
+  "active": "ae36d2de23c15b58",
   "lastOpenFiles": [
-    "robots.txt",
-    "_posts/Pasted image 20240724125202.png",
-    "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
-    "_posts/Pasted image 20240724124332.png",
-    "_posts/Pasted image 20240724124836.png",
-    "_posts/Pasted image 20240724124405.png",
-    "_posts/Pasted image 20240724124341.png",
-    "_posts/2024-07-17-메시지큐에-대하여.md",
-    "conflict-files-obsidian-git.md",
-    "_posts/2024-07-15-AMQP에-대하여.md",
-    "assets/img/240715_amqp.png",
-    "_posts/2024-07-05-python의-모듈테스트-unittest.md",
-    "_tabs/about.md",
-    "README.md",
-    "assets/img/openai-thumbnail.png",
-    "assets/img/240709_unittest.png",
-    "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
-    "assets/img/240627.jpg",
-    "assets/img/CP00013489_20230227152404.png",
-    "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
-    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
-    "_posts/_templates/post.md",
+    "_posts/Pasted image 20240824102647.png",
+    "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
     "_posts/2024-01-12-블로그-이전.md",
-    "_posts/2024-01-15-RDS를-S3에-백업하기.md",
-    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
-    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
-    "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
-    "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+    "_posts/_templates/post.md",
+    "_posts/_templates/template.md",
     "_posts/_templates",
-    "().md",
+    "README.md",
+    "Pasted image 20240815164622.png",
+    "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+    "_tabs/about.md",
+    "robots.txt",
+    "_posts/2024-07-17-메시지큐에-대하여.md",
+    "assets/img/240715_amqp.png",
+    "assets/img/240709_unittest.png",
+    "assets/img/240627.jpg",
+    "assets/img/240625.png",
+    "_posts/2024-07-15-AMQP에-대하여.md",
+    "_posts/2024-07-05-python의-모듈테스트-unittest.md",
+    "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
+    "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
+    "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_site/posts/시계열분석-Prophet-예측모델에-대하여(3)/index.html",
     "_site/posts/시계열분석-Prophet-예측모델에-대하여(3)",
     "_site/posts/시계열분석-ARIMA-예측모델에-대하여(2)/index.html",
@@ -186,13 +192,19 @@
     "_site/categories/ml",
     "_site/categories/server/index.html",
     "_site/categories/server",
-    "_site/tags/meta/index.html",
+    "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
+    "().md",
+    "conflict-files-obsidian-git.md",
+    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
     "_site/().md",
     "_posts/이력서.md",
     "_posts/2024-01-24-python의-테스트-unittest.md",
+    "_site/assets/img/openai-thumbnail.png",
+    "assets/img/avatar.png",
+    "assets/img/openai-thumbnail.png",
+    "assets/img/0115thumbnail.png",
     "_tabs/archives.md",
     "_tabs/about.md.md",
-    "_site/tabs/about.md.md",
-    "2024-01-15.md"
+    "_site/tabs/about.md.md"
   ]
 }
