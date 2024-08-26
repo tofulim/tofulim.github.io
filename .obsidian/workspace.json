@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
+                "file": "_posts/2024-08-21-CKA-시험-접수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
+                "file": "_posts/2024-08-21-CKA-시험-접수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
+                "file": "_posts/2024-08-21-CKA-시험-접수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md"
+                "file": "_posts/2024-08-21-CKA-시험-접수.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "c4b6f82b9f7852f8",
   "lastOpenFiles": [
+    "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
     "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
     "assets/img/240827_cka.webp",
     "assets/img/240824_angelhack.png",
-    "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
     "_posts/2024-08-21-CKA-시험-접수.md",
     "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
     "_includes/pageviews/goatcounter.html",
