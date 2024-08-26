@@ -1,10 +1,5 @@
 {
   "uploadStrategy": "AUTHENTICATED_IMGUR",
   "clientId": "92508df5f3f80db",
-<<<<<<< HEAD
-  "showRemoteUploadConfirmation": false,
-=======
-  "showRemoteUploadConfirmation": true,
->>>>>>> c8db81b05dda1dce24196e8a9b09cef0501c58da
-  "albumToUpload": "nztFQzQ"
+  "showRemoteUploadConfirmation": true
 }
