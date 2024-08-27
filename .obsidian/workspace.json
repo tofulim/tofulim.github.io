@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6548c4118e6e5b8",
+        "id": "1bccb3d1cb61d30a",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b6f82b9f7852f8",
+            "id": "95e81183d384a210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-21-CKA-시험-접수.md",
+                "file": "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-21-CKA-시험-접수.md",
+                "file": "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-21-CKA-시험-접수.md",
+                "file": "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-21-CKA-시험-접수.md"
+                "file": "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md"
               }
             }
           }
@@ -146,52 +146,52 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c4b6f82b9f7852f8",
+  "active": "95e81183d384a210",
   "lastOpenFiles": [
-    "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
-    "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
-    "assets/img/240827_cka.webp",
-    "assets/img/240824_angelhack.png",
-    "_posts/2024-08-21-CKA-시험-접수.md",
-    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
-    "_includes/pageviews/goatcounter.html",
-    "_includes/pageviews",
-    "_includes/analytics/umami.html",
-    "_includes/analytics/matomo.html",
-    "_includes/analytics/google.html",
-    "_includes/analytics/goatcounter.html",
-    "_includes/analytics/fathom.html",
-    "_includes/analytics/cloudflare.html",
-    "_includes/analytics",
-    "_site/assets/js/data/swcache.js",
-    "_site/assets/img/favicons/safari-pinned-tab.svg",
-    "_site/assets/img/favicons/mstile-150x150.png",
-    "_site/assets/img/favicons/apple-touch-icon.png",
-    "_site/assets/img/favicons/favicon-32x32.png",
-    "_site/assets/img/favicons/favicon-16x16.png",
-    "_site/assets/img/favicons/android-chrome-512x512.png",
-    "_site/assets/img/favicons/android-chrome-192x192.png",
-    "_site/assets/img/renoir2.png",
-    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
     "_posts/2024-03-04-시계열분석-ARIMA-예측모델에-대하여(2).md",
+    "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
+    "_posts/2024-08-21-CKA-시험-접수.md",
+    "=",
+    "assets/img/240827_cka.webp",
+    "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
+    "assets/img/240824_angelhack.png",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
-    "_tabs/archives.md",
-    "_tabs/about.md",
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/20240116123204.png",
+    "assets/img/240813_aws.png",
+    "assets/img/20240820.webp",
+    "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
     "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
-    "Pasted image 20240813124356.png.md",
-    "Pasted image 20240813125442.png.md",
-    "().md",
+    "_posts/Pasted image 20240824102647.png",
+    "_posts/2024-01-12-블로그-이전.md",
+    "_posts/_templates/post.md",
+    "_posts/_templates/template.md",
+    "_posts/_templates",
+    "README.md",
+    "Pasted image 20240815164622.png",
     "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
+    "_tabs/about.md",
+    "robots.txt",
     "_posts/2024-07-17-메시지큐에-대하여.md",
-    "conflict-files-obsidian-git.md",
+    "assets/img/240715_amqp.png",
+    "assets/img/240709_unittest.png",
     "_posts/2024-07-15-AMQP에-대하여.md",
     "_posts/2024-07-05-python의-모듈테스트-unittest.md",
-    "README.md",
     "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
     "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
-    "_posts/_templates/post.md",
-    "_posts/2024-01-12-블로그-이전.md",
-    "_posts/2024-01-15-RDS를-S3에-백업하기.md",
-    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md"
+    "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
+    "_posts/2024-03-07-시계열분석-Prophet-예측모델에-대하여(3).md",
+    "_site/posts/시계열분석-Prophet-예측모델에-대하여(3)/index.html",
+    "_site/posts/시계열분석-Prophet-예측모델에-대하여(3)",
+    "_site/posts/시계열분석-ARIMA-예측모델에-대하여(2)/index.html",
+    "_site/posts/시계열분석-ARIMA-예측모델에-대하여(2)",
+    "_site/categories/ml/index.html",
+    "_site/categories/ml",
+    "_site/categories/server/index.html",
+    "().md",
+    "conflict-files-obsidian-git.md",
+    "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
+    "_site/().md",
+    "_posts/이력서.md"
   ]
 }
