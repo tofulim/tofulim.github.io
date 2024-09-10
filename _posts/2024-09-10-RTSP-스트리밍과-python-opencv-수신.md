@@ -44,6 +44,7 @@ image:
 			- https://post.naver.com/viewer/postView.nhn?volumeNo=29553682&memberNo=2534901
 			- https://www.clien.net/service/board/kin/15958011
 			- 나 또한 안됐다
+
 ```python3
 import cv2
 
