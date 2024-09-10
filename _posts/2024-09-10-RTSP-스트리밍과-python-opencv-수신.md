@@ -15,9 +15,10 @@ image:
 - 다운로드
 	- git released zip file [link](https://github.com/aler9/rtsp-simple-server/releases/download/v0.21.0/rtsp-simple-server_v0.21.0_linux_amd64.tar.gz)
 - 압축 풀기
-	```bash  
+
+```bash  
 	tar -xvzf rtsp-simple-server_v0.21.0_linux_amd64.tar.gz  
-	```
+```
  
 - 실행 파일 권한 설정 및 실행
    ```bash  
