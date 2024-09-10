@@ -5,6 +5,7 @@ Gemfile.lock
 
 # Jekyll cache
 .jekyll-cache
+.jekyll-metadata
 _site
 _posts/_templates
 
@@ -17,8 +18,9 @@ package-lock.json
 
 # IDE configurations
 .idea
-.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
 
 # Misc
-# assets/js/dist
-#_posts/2024-09-01-k8s-초보를-위한-쿠버네티스-안내서(44BITS)-정리.md

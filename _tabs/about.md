@@ -89,7 +89,7 @@ order: 4
 		- 학습 데이터 전처리(pandas)
 		- 크라우드 소싱을 통한 라벨링의 가이드라인 작성
 	2. 모델 실험, 학습, 최적화 및 서빙
-		- Token / SequenceClassification 모델 학습 코드 개발 및 실험 진행(pytorch, Deepspeed)
+		- Token / Sequence Classification 모델 학습 코드 개발 및 실험 진행(pytorch, Deepspeed)
 		- TensorRT 활용한 RPS 최적화
 
 #### 국립국어원 2021 인공지능 언어능력 평가

@@ -56,4 +56,4 @@ status
 ```
 
 ---
-+vlc로 안돼서 삽질하다 ffmpeg를 통해 해결ㅖ
++vlc로 안돼서 삽질하다 ffmpeg를 통해 해결

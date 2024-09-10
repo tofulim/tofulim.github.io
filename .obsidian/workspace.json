@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3472a58cd2eb48d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-09-10-RTSP-스트리밍과-python-opencv-수신.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,19 +159,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "95e81183d384a210",
+  "active": "3472a58cd2eb48d1",
   "lastOpenFiles": [
-    "_posts/2024-09-01-k8s-초보를-위한-쿠버네티스-안내서(44BITS)-정리.md",
+    "conflict-files-obsidian-git.md",
     "_posts/2024-09-10-RTSP-스트리밍과-python-opencv-수신.md",
-    "tools/test",
-    "tools/run",
-    "tools/release",
-    "tools/init",
-    "assets/js/pwa/unregister.js",
-    "assets/js/pwa/sw.js",
-    "assets/js/pwa/app.js",
-    "assets/js/pwa",
-    "assets/js/data/swcache.js",
+    "tools/test.sh",
+    "tools/run.sh",
+    "tools",
+    "purgecss.config.js",
+    "assets/lib/tocbot/tocbot.min.js",
+    "assets/lib/tocbot/tocbot.min.css",
+    "assets/lib/tocbot",
+    "assets/lib/simple-jekyll-search/simple-jekyll-search.min.js",
+    "assets/lib/simple-jekyll-search",
+    "assets/lib/package.json",
+    "assets/lib/fontawesome-free/README.md",
+    "assets/lib/README.md",
+    "_posts/2024-09-01-k8s-초보를-위한-쿠버네티스-안내서(44BITS)-정리.md",
     "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
     "_posts/2024-08-21-CKA-시험-접수.md",
     "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
@@ -177,7 +194,6 @@
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
     "_posts/2024-01-15-RDS를-S3에-백업하기.md",
     "_posts/2024-01-12-블로그-이전.md",
-    "_javascript/_copyright",
     "assets/img/240827_cka.webp",
     "assets/img/240824_angelhack.png",
     "assets/img/favicons/apple-touch-icon.png",
@@ -189,10 +205,7 @@
     "_posts/_templates/template.md",
     "README.md",
     "Pasted image 20240815164622.png",
-    "_tabs/about.md",
     "assets/img/240715_amqp.png",
-    "assets/img/240709_unittest.png",
-    "().md",
-    "conflict-files-obsidian-git.md"
+    "assets/img/240709_unittest.png"
   ]
 }
