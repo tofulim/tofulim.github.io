@@ -17,7 +17,7 @@ image:
 - 압축 풀기
 
 ```bash  
-	tar -xvzf rtsp-simple-server_v0.21.0_linux_amd64.tar.gz  
+tar -xvzf rtsp-simple-server_v0.21.0_linux_amd64.tar.gz  
 ```
  
 - 실행 파일 권한 설정 및 실행

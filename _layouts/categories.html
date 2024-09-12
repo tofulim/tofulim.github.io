@@ -110,6 +110,7 @@ layout: page
                 <a href="{{ _sub_ctg_url | relative_url }}" class="mx-2">{{ sub_category }}</a>
 
                 {% assign posts_size = site.categories[sub_category] | size %}
+                <span class="clap-count-cat" data-url="{{ post.url | absolute_url }}"></span>
                 <span class="text-muted small font-weight-light">
                   {{ posts_size }}
 

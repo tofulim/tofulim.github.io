@@ -1543,3 +1543,56 @@ search {
     }
   }
 } /* min-width: 1650px */
+
+// Applause button
+applause-button {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+
+  .count-container {
+    color: inherit;
+  }
+}
+
+.clap-count {
+  @extend h5;
+  color: rgb(79, 177, 186);
+  color: var(--text-muted-color);
+  display: none;
+  margin-left: 1.75rem;
+
+  svg {
+    height: 1em;
+    vertical-align: middle;
+    width: 1em;
+  }
+
+  .flat {
+    fill: rgb(79, 177, 186, 0);
+  }
+
+  .outline {
+    fill: var(--text-muted-color);
+  }
+}
+
+.clap-count-cat {
+  color: var(--text-muted-color);
+  display: none;
+  margin-left: .5rem;
+
+  svg {
+    height: 1em;
+    vertical-align: middle;
+    width: 1em;
+  }
+
+  .flat {
+    fill: rgb(79, 177, 186, 0);
+  }
+
+  .outline {
+    fill: var(--text-muted-color);
+  }
+}
