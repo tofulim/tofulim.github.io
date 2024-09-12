@@ -100,20 +100,20 @@ tail_includes:
     </div>
   </header>
 
+  {% if page.applause_button %}
+  <div class="applause-button">
+    <applause-button class="mb6"
+        color={{ site.accent_color | default:'rgb(79,177,186)' }}
+        url={{ page.url | absolute_url }} >
+    </applause-button>
+    </div> 
+  {% endif %}
+
   <div class="content">
     {{ content }}
   </div>
 
   <div class="post-tail-wrapper text-muted">
-
-    {% if page.applause_button %}
-      <div class="applause-button">
-        <applause-button class="mb6"
-            color={{ site.accent_color | default:'rgb(79,177,186)' }}
-            url={{ page.url | absolute_url }} >
-        </applause-button>
-        </div> 
-      {% endif %}
 
     <!-- categories -->
     {% if page.categories.size > 0 %}
