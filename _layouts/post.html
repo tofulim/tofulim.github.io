@@ -100,15 +100,6 @@ tail_includes:
     </div>
   </header>
 
-  {% if page.applause_button %}
-  <div class="applause-button">
-    <applause-button class="mb6"
-        color={{ site.accent_color | default:'rgb(79,177,186)' }}
-        url={{ page.url | absolute_url }} >
-    </applause-button>
-    </div> 
-  {% endif %}
-
   <div class="content">
     {{ content }}
   </div>
@@ -140,7 +131,14 @@ tail_includes:
         {% endfor %}
       </div>
     {% endif %}
-
+    {% if page.applause_button %}
+      <div class="applause-button">
+        <applause-button class="mb6"
+            color={{ site.accent_color | default:'rgb(79,177,186)' }}
+            url={{ page.url | absolute_url }} >
+        </applause-button>
+        </div> 
+      {% endif %}
     <div
       class="
         post-tail-bottom
@@ -162,6 +160,7 @@ tail_includes:
       {% include post-sharing.html lang=lang %}
     </div>
     <!-- .post-tail-bottom -->
+    
   </div>
   <!-- div.post-tail-wrapper -->
   <script src="https://utteranc.es/client.js"
