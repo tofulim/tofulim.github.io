@@ -4,7 +4,7 @@ categories:
 tags:
   - amqp
 mermaid: true
-image:
+image: assets/img/240924_githubmodel.png
 ---
 > github에서 Models라는 신규 서비스를 런칭하는 것 같기에 신청했는데 시간이 좀 지난 후 승인이 되어 사용해 보았다.
 ---
