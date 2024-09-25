@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
+                "file": "_posts/2024-09-25-linux-group-permission.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
+                "file": "_posts/2024-09-25-linux-group-permission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
+                "file": "_posts/2024-09-25-linux-group-permission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md"
+                "file": "_posts/2024-09-25-linux-group-permission.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "3472a58cd2eb48d1",
   "lastOpenFiles": [
+    "assets/img/240925_linux_group.png",
+    "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
+    "_posts/2024-09-25-linux-group-permission.md",
     "assets/img/240924_githubmodel.png",
     "_posts/2024-07-15-AMQP에-대하여.md",
-    "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
     "_posts/2024-09-10-RTSP-스트리밍과-python-opencv-수신.md",
     "_site/posts/RTSP-스트리밍과-python-opencv-수신/index.html",
     "_site/posts/RTSP-스트리밍과-python-opencv-수신",
@@ -198,14 +200,12 @@
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
     "_posts/2024-02-02-openai-client를-사용할-때-memory-leak.md",
     "_posts/2024-01-21-python-coroutine과-task,-그리고-asyncio에-대하여.md",
-    "_posts/2024-01-15-RDS를-S3에-백업하기.md",
     "assets/img/240827_cka.webp",
     "assets/img/240824_angelhack.png",
     "assets/img/favicons/apple-touch-icon.png",
     "assets/img/20240116123204.png",
     "assets/img/240813_aws.png",
     "assets/img/20240820.webp",
-    "_posts/Pasted image 20240824102647.png",
-    "Pasted image 20240815164622.png"
+    "_posts/Pasted image 20240824102647.png"
   ]
 }
