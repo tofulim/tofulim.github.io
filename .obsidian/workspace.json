@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-15-CKA-합격-후기.md",
+                "file": "_posts/2024-10-14-CKA-정리-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-15-CKA-합격-후기.md",
+                "file": "_posts/2024-10-14-CKA-정리-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-15-CKA-합격-후기.md",
+                "file": "_posts/2024-10-14-CKA-정리-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-15-CKA-합격-후기.md"
+                "file": "_posts/2024-10-14-CKA-정리-1.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "3472a58cd2eb48d1",
   "lastOpenFiles": [
-    "_posts/2024-10-14-CKA-정리-1.md",
     "_posts/2024-10-15-CKA-합격-후기.md",
+    "_posts/2024-10-14-CKA-정리-1.md",
     "assets/img/cka.png",
     "_posts/2024-08-21-CKA-시험-접수.md",
     "_posts/2024-09-25-linux-group-permission.md",
