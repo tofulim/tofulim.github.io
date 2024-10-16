@@ -46,6 +46,7 @@ order: 4
 
 ---
 ## **<span style="color:orange">Cert</span>ificate**
+- Certified Kubernetes Administrator (CKA) (2024.10.13)
 - AWS Solutions Architect - Associate (2023.05.29)
 - TOEIC - 860 (2023.04.30)
 - 정보처리기사 (2020.11.12)
