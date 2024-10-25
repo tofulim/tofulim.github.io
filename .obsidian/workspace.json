@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-21-CKA-정리4.md",
+                "file": "_posts/2024-10-23-CKA-정리5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-21-CKA-정리4.md",
+                "file": "_posts/2024-10-23-CKA-정리5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-21-CKA-정리4.md",
+                "file": "_posts/2024-10-23-CKA-정리5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-21-CKA-정리4.md"
+                "file": "_posts/2024-10-23-CKA-정리5.md"
               }
             }
           }
@@ -161,8 +161,29 @@
   },
   "active": "3472a58cd2eb48d1",
   "lastOpenFiles": [
-    "_posts/2024-10-18-CKA-정리3.md",
     "_posts/2024-10-21-CKA-정리4.md",
+    "_posts/2024-10-23-CKA-정리5.md",
+    "2024-10-23-CKA-정리5.md",
+    "_site/posts/CKA-정리5/index.html",
+    "_site/posts/CKA-정리5",
+    "_site/posts/CKA-정리4/index.html",
+    "_site/posts/CKA-정리4",
+    "_site/posts/CKA-정리3/index.html",
+    "_site/posts/CKA-정리3",
+    "_site/posts/CKA-정리2/index.html",
+    "_site/posts/CKA-정리2",
+    "_site/posts/CKA-합격-후기/index.html",
+    "_site/posts/CKA-합격-후기",
+    "_site/assets/img/cka.png",
+    "Pasted image 20241023124237.png",
+    "Pasted image 20241023124141.png",
+    "Pasted image 20241023124121.png",
+    "Pasted image 20241023123523.png",
+    "Pasted image 20241023124058.png",
+    "Pasted image 20241023124055.png",
+    "Pasted image 20241023124045.png",
+    "Pasted image 20241023124043.png",
+    "_posts/2024-10-18-CKA-정리3.md",
     "_tabs/about.md",
     "_posts/2024-10-16-CKA-정리2.md",
     "_posts/2024-10-14-CKA-정리1.md",
@@ -170,27 +191,11 @@
     "assets/img/cka.png",
     "_posts/2024-08-21-CKA-시험-접수.md",
     "_posts/2024-09-25-linux-group-permission.md",
-    "_site/posts/linux-group-permission/index.html",
-    "_site/posts/linux-group-permission",
-    "_site/posts/GitHub-Models-limited-public-beta-후기/index.html",
-    "_site/posts/GitHub-Models-limited-public-beta-후기",
-    "_site/assets/img/240925_linux_group.png",
-    "_site/assets/img/240924_githubmodel.png",
-    "_site/page3/index.html",
-    "_site/page3",
-    "_site/tags/permission/index.html",
-    "_site/tags/permission",
-    "_site/tags/linux/index.html",
-    "_site/tags/linux",
-    "assets/img/240925_linux_group.png",
     "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
-    "assets/img/240924_githubmodel.png",
     "_posts/2024-07-15-AMQP에-대하여.md",
     "_posts/2024-09-10-RTSP-스트리밍과-python-opencv-수신.md",
     "_site/assets/lib/fontawesome-free/README.md",
     "_site/assets/lib/README.md",
-    "_site/assets/img/240827_cka.webp",
-    "_site/assets/img/240824_angelhack.png",
     "conflict-files-obsidian-git.md",
     "assets/lib/fontawesome-free/README.md",
     "assets/lib/README.md",
@@ -201,11 +206,6 @@
     "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
     "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
     "_posts/2024-07-17-메시지큐에-대하여.md",
-    "_posts/2024-07-05-python의-모듈테스트-unittest.md",
-    "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
-    "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
-    "assets/img/240827_cka.webp",
-    "assets/img/240824_angelhack.png",
-    "assets/img/favicons/apple-touch-icon.png"
+    "_posts/2024-07-05-python의-모듈테스트-unittest.md"
   ]
 }
