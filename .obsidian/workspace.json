@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-15-AMQP에-대하여.md",
+                "file": "_tabs/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-15-AMQP에-대하여.md",
+                "file": "_tabs/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-15-AMQP에-대하여.md",
+                "file": "_tabs/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-15-AMQP에-대하여.md"
+                "file": "_tabs/about.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "3472a58cd2eb48d1",
   "lastOpenFiles": [
+    "_posts/2024-07-15-AMQP에-대하여.md",
     "_posts/2024-09-10-RTSP-스트리밍과-python-opencv-수신.md",
     "_site/posts/RTSP-스트리밍과-python-opencv-수신/index.html",
     "_site/posts/RTSP-스트리밍과-python-opencv-수신",
@@ -187,7 +188,6 @@
     "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
     "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md",
     "_posts/2024-07-17-메시지큐에-대하여.md",
-    "_posts/2024-07-15-AMQP에-대하여.md",
     "_posts/2024-07-05-python의-모듈테스트-unittest.md",
     "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
     "_posts/2024-06-25-Mac에서-c-type-허브를-이용한-이더넷-연결.md",
