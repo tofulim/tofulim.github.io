@@ -11,7 +11,7 @@ order: 4
 - linkedin: [link](https://www.linkedin.com/in/%EB%8F%84%ED%9B%88-%EC%9E%84-33580221a/)
 
 ---
-## **<span style="color:orange">Edu</span>cation**
+## **<span style="color:orange">Edu</span>cation** 
 
 #### 부스트캠프 AI Tech 1기
 - 2021.01.18 - 2021.06.22
@@ -46,6 +46,7 @@ order: 4
 
 ---
 ## **<span style="color:orange">Cert</span>ificate**
+- Certified Kubernetes Administrator (CKA) (2024.10.13)
 - AWS Solutions Architect - Associate (2023.05.29)
 - TOEIC - 860 (2023.04.30)
 - 정보처리기사 (2020.11.12)
