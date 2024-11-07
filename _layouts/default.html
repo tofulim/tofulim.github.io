@@ -37,6 +37,7 @@ layout: compress
             <div class="access">
               {% include_cached update-list.html lang=lang %}
               {% include_cached trending-tags.html lang=lang %}
+              {% include google_adsense.html %}
             </div>
 
             {% for _include in layout.panel_includes %}
@@ -55,6 +56,7 @@ layout: compress
             {% endfor %}
 
             {% include_cached footer.html lang=lang %}
+            {% include google_adsense.html %}
           </div>
         </div>
 

@@ -98,14 +98,15 @@ tail_includes:
         </div>
       </div>
     </div>
+    {% include google_adsense.html %}
   </header>
 
   <div class="content">
     {{ content }}
+    {% include google_adsense.html %}
   </div>
   
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3913811466296919"
-     crossorigin="anonymous"></script>
+  {% include google_adsense.html %}
 
   <div class="post-tail-wrapper text-muted">
 
