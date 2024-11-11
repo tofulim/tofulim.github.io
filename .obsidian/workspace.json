@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-29-CKA-정리6.md",
+                "file": "_posts/2024-11-11-EC2-프리티어-swap-메모리-적용.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-29-CKA-정리6.md",
+                "file": "_posts/2024-11-11-EC2-프리티어-swap-메모리-적용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-10-29-CKA-정리6.md",
+                "file": "_posts/2024-11-11-EC2-프리티어-swap-메모리-적용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-10-29-CKA-정리6.md"
+                "file": "_posts/2024-11-11-EC2-프리티어-swap-메모리-적용.md"
               }
             }
           }
@@ -161,21 +161,24 @@
   },
   "active": "3472a58cd2eb48d1",
   "lastOpenFiles": [
+    "_posts/2024-10-29-CKA-정리6.md",
+    "_posts/2024-10-18-CKA-정리3.md",
+    "_posts/2024-10-16-CKA-정리2.md",
+    "_posts/2024-11-11-EC2-프리티어-swap-메모리-적용.md",
+    "assets/img/241111_swap.png",
+    "_site/posts/CKA-정리6/index.html",
+    "_site/posts/CKA-정리6",
+    "_site/posts/CKA-정리5/index.html",
+    "_site/posts/CKA-정리5",
     "_includes/google_adsense.html",
     "_includes/adsense",
     "_posts/2024-10-23-CKA-정리5.md",
-    "_posts/2024-10-29-CKA-정리6.md",
     "_posts/2024-10-21-CKA-정리4.md",
     "2024-10-23-CKA-정리5.md",
-    "_site/posts/CKA-정리5/index.html",
-    "_site/posts/CKA-정리5",
     "_site/posts/CKA-정리4/index.html",
     "_site/posts/CKA-정리4",
     "_site/posts/CKA-정리3/index.html",
     "_site/posts/CKA-정리3",
-    "_site/posts/CKA-정리2/index.html",
-    "_site/posts/CKA-정리2",
-    "_site/posts/CKA-합격-후기/index.html",
     "_site/assets/img/cka.png",
     "Pasted image 20241023124237.png",
     "Pasted image 20241023124141.png",
@@ -185,12 +188,9 @@
     "Pasted image 20241023124055.png",
     "Pasted image 20241023124045.png",
     "Pasted image 20241023124043.png",
-    "_posts/2024-10-18-CKA-정리3.md",
     "_tabs/about.md",
-    "_posts/2024-10-16-CKA-정리2.md",
     "_posts/2024-10-14-CKA-정리1.md",
     "_posts/2024-10-15-CKA-합격-후기.md",
-    "assets/img/cka.png",
     "_posts/2024-08-21-CKA-시험-접수.md",
     "_posts/2024-09-25-linux-group-permission.md",
     "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
@@ -205,7 +205,6 @@
     "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md",
     "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
     "_posts/2024-08-13-하나의-구글-계정으로-여러개의-aws-프리티어-계정-생성하기.md",
-    "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md",
-    "_posts/2024-07-24-k8s-containerd-루트-디렉토리-변경.md"
+    "_posts/2024-08-05-ssh로-접근한-remote-headless서버의-GUI를-local에서-확인하기.md"
   ]
 }
