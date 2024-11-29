@@ -31,7 +31,8 @@ image: assets/img/241119_ringbf.png
 원형 버퍼는 4개 요소로 보통 구성된다.
 - 고정 길이 배열
 - read(input) 데이터 위치(index)
-- write(output) 데이터 (index)
+- write(output) 데이터 위치 (index)
+- empty 여부 flag
 
 요점은 2개의 포인터를 두고 입/출력 (송/수신) 현황을 갱신해나가는 것이다.
 
