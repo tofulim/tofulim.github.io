@@ -83,6 +83,7 @@ Reader가 빠르게 처리할 수 있는 상황에도 Writer가 쌓아놓은 역
 #### ring_buffer.py
 - 링버퍼 구현체 클래스로 SharedMemory에 Write한다.
 
+
 ```python3
 import ctypes
 import numpy as np
@@ -177,6 +178,8 @@ class RingBuffer:
 
 #### RTSP Writer
 - opencv를 활용해 RTSP 입력으로부터 frame을 추출해내며 Ring Buffer에 push한다
+
+
 ```python3
 import time
 import cv2
@@ -245,6 +248,7 @@ class RTSPWriter:
 
 #### RTSP Reader
 - 주어진 RTSP frame을 처리하는 부분으로 처리부이지만 예제에서는 dummy로 read만 한다.
+
 
 ```python3
 import time
@@ -350,6 +354,7 @@ class RTSPReader:
 - multi-processing 구조의 부모 프로세스이다.
 - main.py 에서 Writer process와 Reader process를 자식 프로세스로 구동한다.
 	- 둘 사이에서 공유 자원 관리는 multiprocessing.Lock으로 수행한다.
+
 
 ```python3
 import ctypes
