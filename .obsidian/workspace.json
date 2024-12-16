@@ -161,6 +161,7 @@
   },
   "active": "a802aa444ef7cdc5",
   "lastOpenFiles": [
+    "assets/img/20241216_python.png",
     "_posts/2024-11-19-Ring-Buffer-구조와-RTSP.md",
     "_posts/2024-12-16-python-함수-초기값-주의하기.md",
     "_site/posts/Ring-Buffer-구조와-RTSP/index.html",
@@ -205,7 +206,6 @@
     "conflict-files-obsidian-git.md",
     "assets/lib/fontawesome-free/README.md",
     "assets/lib/README.md",
-    "_posts/2024-09-01-k8s-초보를-위한-쿠버네티스-안내서(44BITS)-정리.md",
-    "_posts/2024-08-24-2024엔젤핵서울-참가-후기.md"
+    "_posts/2024-09-01-k8s-초보를-위한-쿠버네티스-안내서(44BITS)-정리.md"
   ]
 }
