@@ -352,7 +352,6 @@ class RTSPReader:
 - main.py 에서 Writer process와 Reader process를 자식 프로세스로 구동한다.
 	- 둘 사이에서 공유 자원 관리는 multiprocessing.Lock으로 수행한다.
 
-
 ```python
 import ctypes
 import cv2
