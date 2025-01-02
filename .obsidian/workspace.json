@@ -161,8 +161,10 @@
   },
   "active": "a802aa444ef7cdc5",
   "lastOpenFiles": [
-    "_posts/2024-12-30-방화벽-iptables-ufw-그리고-firewalld.md",
+    "_posts/2025-01-02-cpu-pinning과-NUMA-구조.md",
+    "assets/img/250102_numa.png",
     "_posts/2025-01-02-2024년-회고.md",
+    "_posts/2024-12-30-방화벽-iptables-ufw-그리고-firewalld.md",
     "assets/img/250102_bluedragon.jpg",
     "assets/img/241230_firewall.jpeg",
     "_posts/2024-12-16-python-함수-초기값-주의하기.md",
@@ -191,7 +193,6 @@
     "_posts/2024-10-29-CKA-정리6.md",
     "_posts/2024-10-18-CKA-정리3.md",
     "_posts/2024-10-16-CKA-정리2.md",
-    "assets/img/241111_swap.png",
     "_posts/2024-10-23-CKA-정리5.md",
     "_posts/2024-10-21-CKA-정리4.md",
     "2024-10-23-CKA-정리5.md",
@@ -204,7 +205,6 @@
     "_posts/2024-07-15-AMQP에-대하여.md",
     "_site/assets/lib/fontawesome-free/README.md",
     "_site/assets/lib/README.md",
-    "conflict-files-obsidian-git.md",
-    "assets/lib/fontawesome-free/README.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
