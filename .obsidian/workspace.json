@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-16-CKA-정리2.md",
+                "file": "_posts/2024-10-14-CKA-정리1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-16-CKA-정리2"
+              "title": "2024-10-14-CKA-정리1"
             }
           }
         ]
@@ -161,8 +161,8 @@
   },
   "active": "a802aa444ef7cdc5",
   "lastOpenFiles": [
-    "_posts/2024-10-18-CKA-정리3.md",
     "_posts/2024-10-16-CKA-정리2.md",
+    "_posts/2024-10-18-CKA-정리3.md",
     "_posts/2024-10-14-CKA-정리1.md",
     "_posts/2025-01-07-clip-모델-논문-번역.md",
     "_posts/2025-01-02-2024년-회고.md",
