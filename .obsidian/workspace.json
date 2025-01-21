@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-10-23-CKA-정리5.md",
+                "file": "_posts/2025-01-21-k8s-local-image-사용하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-23-CKA-정리5"
+              "title": "2025-01-21-k8s-local-image-사용하기"
             }
           }
         ]
@@ -161,6 +161,23 @@
   },
   "active": "a802aa444ef7cdc5",
   "lastOpenFiles": [
+    "assets/img/250121_dockerimage.png",
+    "_posts/2024-10-23-CKA-정리5.md",
+    "_posts/2025-01-21-k8s-local-image-사용하기.md",
+    "_site/posts/clip-모델-논문-번역/index.html",
+    "_site/posts/clip-모델-논문-번역",
+    "_site/posts/cpu-pinning과-NUMA-구조/index.html",
+    "_site/posts/cpu-pinning과-NUMA-구조",
+    "_site/posts/2024년-회고/index.html",
+    "_site/posts/2024년-회고",
+    "_site/posts/방화벽-iptables-ufw-그리고-firewalld/index.html",
+    "_site/posts/방화벽-iptables-ufw-그리고-firewalld",
+    "_site/assets/img/250107_clip.png",
+    "_site/assets/img/250102_numa.png",
+    "_site/assets/img/250102_bluedragon.jpg",
+    "_site/assets/img/241230_firewall.jpeg",
+    "_site/tags/nlp/index.html",
+    "_site/tags/nlp",
     "_posts/2025-01-07-clip-모델-논문-번역.md",
     "_tabs/about.md",
     "_posts/2024-10-14-CKA-정리1.md",
@@ -175,28 +192,13 @@
     "assets/img/250102_bluedragon.jpg",
     "assets/img/241230_firewall.jpeg",
     "_posts/2024-12-16-python-함수-초기값-주의하기.md",
-    "_site/posts/python-함수-초기값-주의하기/index.html",
-    "_site/posts/python-함수-초기값-주의하기",
     "_site/assets/img/20241216_python.png",
-    "_site/tags/bug/index.html",
-    "_site/tags/bug",
-    "assets/img/20241216_python.png",
     "_posts/2024-11-19-Ring-Buffer-구조와-RTSP.md",
-    "_site/posts/Ring-Buffer-구조와-RTSP/index.html",
-    "_site/posts/Ring-Buffer-구조와-RTSP",
-    "_site/posts/EC2-프리티어-swap-메모리-적용/index.html",
-    "_site/posts/EC2-프리티어-swap-메모리-적용",
-    "_site/assets/img/ring_buffer.gif",
-    "_site/assets/img/241119_ringbf.png",
-    "_site/assets/img/241111_swap.png",
-    "_site/page4/index.html",
-    "_site/page4",
     "_posts/2024-11-11-EC2-프리티어-swap-메모리-적용.md",
     "_posts/2024-09-10-RTSP-스트리밍과-python-opencv-수신.md",
     "2024-11-19.md",
     "2024-11-19-Ring-Buffer-구조와-RTSP.md",
     "_posts/2024-10-29-CKA-정리6.md",
-    "_posts/2024-10-23-CKA-정리5.md",
     "_posts/2024-10-21-CKA-정리4.md",
     "2024-10-23-CKA-정리5.md",
     "_posts/2024-10-15-CKA-합격-후기.md",
@@ -204,7 +206,6 @@
     "_posts/2024-09-25-linux-group-permission.md",
     "_posts/2024-09-24-GitHub-Models-limited-public-beta-후기.md",
     "_posts/2024-07-15-AMQP에-대하여.md",
-    "_site/assets/lib/fontawesome-free/README.md",
-    "_site/assets/lib/README.md"
+    "_site/assets/lib/fontawesome-free/README.md"
   ]
 }
