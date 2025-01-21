@@ -49,5 +49,28 @@ k8s는 docker image를 쓰지만 container runtime interface라는 CRI로는 con
 
 (k8s는 CRI를 통해 어떤 공급업체든 OCI(Open Container Initiative)를 만족하는 이상 컨테이너 런타임으로 작업하게 해준다. 자세한 사항은 [CKA-정리1](https://tofulim.github.io/posts/CKA-%EC%A0%95%EB%A6%AC1/) 참조)
 
-그래서 내가 cli 명령어 
-asdas
+그래서 내가 docker 명령어로 이미지를 만들고 
+`$ docker images`
+
+위 cli 명령어로 빌드한 이미지를 확인할 수 있다고 해도 이는 k8s의 cri가 이미지를 확인할 수 있는 것과 별개의 이야기이다.
+
+즉, k8s의 cri인 containerd가 이미지를 인식할 수 있게 해주어야 한다.
+
+## 이미지 변환 및 로드
+docker image를 tar 로 export하고 k8s cri인 containerd로 tar image를 import하자
+
+#### 이미지를 tar 파일로 저장
+`$ docker save -o test_image-latest.tar test_image:latest`
+
+#### containerd의 cli인 ctr로 이미지 불러오기 및 확인
+![](https://i.imgur.com/FMrfbE3.png)
+
+#### 불러오기
+`$ ctr image import test_image-latest.tar`
+(필요하다면 namespace를 지정해 불러온다. --namespace k8s.io)
+
+#### 확인
+`$ ctr image ls`
+
+----
++위 작업을 하지 않으면 멀쩡한 이미지가 대체 왜 load되지 않는지 고민하며 오래 삽질하게 된다..
