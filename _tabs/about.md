@@ -46,6 +46,7 @@ order: 4
 
 ---
 ## **<span style="color:orange">Cert</span>ificate**
+- OPIc - IH (2025.01.26)
 - Certified Kubernetes Administrator (CKA) (2024.10.13)
 - AWS Solutions Architect - Associate (2023.05.29)
 - TOEIC - 860 (2023.04.30)
