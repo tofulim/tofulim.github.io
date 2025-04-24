@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "about"
             }
+          },
+          {
+            "id": "311e6daebd95f8d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-07-05-python의-모듈테스트-unittest.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2024-07-05-python의-모듈테스트-unittest"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -150,16 +166,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a802aa444ef7cdc5",
+  "active": "311e6daebd95f8d7",
   "lastOpenFiles": [
     "_posts/2025-01-21-k8s-local-image-사용하기.md",
     "_posts/2025-02-05.md",

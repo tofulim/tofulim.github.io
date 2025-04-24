@@ -20,6 +20,7 @@ image: assets/img/240709_unittest.png
 - 다만 CI를 위해 테스트는 꼭 필요하다.
 	- github 협업을 위해서는 CI(Code Integration)를 잘 마련해 놓아야 코드 베이스 관리에 에너지를 덜 사용한다!
 	- 여러 케이스에 대한 테스트 코드가 잘 준비된 레포지토리는 어떤 랜덤 유저의 pull request에도 강경하다. (이게 좋은 오픈소스 프로젝트를 판가름하는 요소같기도 하다.)
+
 ---
 
 ### Unittest의 사용 방법과 주요 시나리오
@@ -38,6 +39,7 @@ image: assets/img/240709_unittest.png
 		- 길이 n의 대문자 문자열을 반환한다.
 	- 테스트 클래스 (TestAlpha)
 		- target 길이 n을 주고 반환받은 문자열이 대문자인지 검사한다.
+
 ```python3
 # target module
 import random  
@@ -108,6 +110,7 @@ OK
 #### 시나리오1: 클라이언트 요구사항 점검
 - 모듈을 설계하면서 수행해야하는 요구사항들을 제대로 수행하는지 테스트한다.
 - 예시 - 길이 5의 경우가 가장 많으니 길이가 5인 10문장을 추출하는 데 문제가 없어야 한다.
+
 ```python3
 def test_10_upper(self):  
     target_length, num_iter = 5, 10  
@@ -142,6 +145,7 @@ OK
 - 특정 연속성이 있는 흐름에서 제대로 작동하는지를 점검한다.
 	- A 모듈 -> B 모듈 -> C 모듈을 각각 테스트하고 일련의 흐름 또한 테스트하고 싶은 경우
 		(이 예시에서는 중간 모듈인 select_random_alpha를 고정해보자)
+
 ```python3
 def test_fixed_alpha_string(self):  
     target_length = 5  
@@ -178,6 +182,7 @@ OK
 #### git action 활용
 - git action을 통해 test code들을 실행하는 shell script를 짤 수 있다.
 - 예시
+
 ```python3
 # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
@@ -214,6 +219,8 @@ jobs:
           python -m unittest discover -s ./test  -p 'test_*.py'
 # 코드 출처 https://github.com/philschmid/github-actions/blob/master/python/run-unittest-on-pr-open.yaml
 ```
+
+
 - 위 git action은 dev, master 브랜치에 pull request가 발생했을 때
 - 현재 코드 베이스 기반으로 unittest를 진행한다.
 -> 이를 통해 궁극적으로 코드가 병합될 때 최소한의 방어막을 구축할 수 있다.
