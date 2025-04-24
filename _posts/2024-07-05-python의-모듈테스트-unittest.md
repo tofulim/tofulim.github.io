@@ -40,7 +40,7 @@ image: assets/img/240709_unittest.png
 	- 테스트 클래스 (TestAlpha)
 		- target 길이 n을 주고 반환받은 문자열이 대문자인지 검사한다.
 
-```python3
+```python
 # target module
 import random  
 import string  
@@ -72,7 +72,7 @@ if __name__ == "__main__":
 ```
 
 - 테스트 코드
-```python3
+```python
 import unittest  
   
 from rand_alpha_module import RandomAlphabet  
@@ -111,7 +111,7 @@ OK
 - 모듈을 설계하면서 수행해야하는 요구사항들을 제대로 수행하는지 테스트한다.
 - 예시 - 길이 5의 경우가 가장 많으니 길이가 5인 10문장을 추출하는 데 문제가 없어야 한다.
 
-```python3
+```python
 def test_10_upper(self):  
     target_length, num_iter = 5, 10  
   
@@ -146,7 +146,7 @@ OK
 	- A 모듈 -> B 모듈 -> C 모듈을 각각 테스트하고 일련의 흐름 또한 테스트하고 싶은 경우
 		(이 예시에서는 중간 모듈인 select_random_alpha를 고정해보자)
 
-```python3
+```python
 def test_fixed_alpha_string(self):  
     target_length = 5  
     target_alpha_string = "AAAAA"  
@@ -183,7 +183,7 @@ OK
 - git action을 통해 test code들을 실행하는 shell script를 짤 수 있다.
 - 예시
 
-```python3
+```python
 # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
