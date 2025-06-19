@@ -115,3 +115,4 @@ main branch에 push가 일어나면 release에 임시저장 상태인 **draft** 
 
 연필 버튼을 눌러 편집 창으로 들어가 tag를 넣고 **Publish Release**로 publish를 해야 실제로 release note가 올라간다.
 
+
