@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2025-06-27-Obsidian-활용한-일정관리-팁.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
-            }
-          },
-          {
-            "id": "311e6daebd95f8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-06-13-BitNet-논문-번역.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-13-BitNet-논문-번역"
+              "title": "2025-06-27-Obsidian-활용한-일정관리-팁"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,22 +160,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "311e6daebd95f8d7",
+  "active": "a802aa444ef7cdc5",
   "lastOpenFiles": [
+    "_tabs/about.md",
+    "preview & time managing.md",
     "_posts/2025-06-27-Obsidian-활용한-일정관리-팁.md",
+    "_posts/2025-07-03.md",
+    "_posts/2025-06-12-git-action으로-release노트-자동화하기.md",
     "_posts/2025-06-13-BitNet-논문-번역.md",
+    "_posts/2025-01-07-clip-모델-논문-번역.md",
+    "_posts/2025-01-21-k8s-local-image-사용하기.md",
+    "_posts/2025-05-31-MCP서버-맛보기.md",
+    "_posts/2025-06-11-raise와-assert.md",
     "assets/img/250627_obsidian.png",
     "assets/img/스크린샷 2025-06-27 오후 12.43.32.png",
     "assets/img/250613_bitnet.png",
     "_posts/_templates/post.md",
     "_posts/_template.md",
-    "_posts/2025-06-12-git-action으로-release노트-자동화하기.md",
     "assets/img/250612_release_note.png",
     "assets/img/스크린샷 2025-06-12 오후 12.27.43.png",
-    "_posts/2025-06-11-raise와-assert.md",
     "assets/img/250611_raise_assert.png",
     "assets/img/스크린샷 2025-06-11 오후 12.10.53.png",
-    "_posts/2025-05-31-MCP서버-맛보기.md",
     "_posts/2024-07-05-python의-모듈테스트-unittest.md",
     "assets/img/250531_mcp.png",
     "_posts/2024-02-05-시계열분석-ARIMA-예측모델에-대하여(1).md",
@@ -199,7 +189,6 @@
     "_posts/2024-08-20-시계열분석-Prophet-예측모델에-대하여(完).md",
     "_posts/2024-08-21-CKA-시험-접수.md",
     "_posts/2024-06-27-본체-pc를-서버로-만들어-ssh-접근하는-법.md",
-    "_posts/2025-01-21-k8s-local-image-사용하기.md",
     "_posts/2025-02-05.md",
     "assets/img/250121_dockerimage.png",
     "_posts/2024-10-23-CKA-정리5.md",
@@ -214,13 +203,10 @@
     "_site/assets/img/250107_clip.png",
     "_site/tags/nlp/index.html",
     "_site/tags/nlp",
-    "_posts/2025-01-07-clip-모델-논문-번역.md",
-    "_tabs/about.md",
     "_posts/2024-10-14-CKA-정리1.md",
     "_posts/2024-10-16-CKA-정리2.md",
     "_posts/2024-10-18-CKA-정리3.md",
     "_posts/2025-01-02-2024년-회고.md",
-    "_posts/2025-01-02-cpu-pinning과-NUMA-구조.md",
-    "_posts/2024-12-30-방화벽-iptables-ufw-그리고-firewalld.md"
+    "_posts/2025-01-02-cpu-pinning과-NUMA-구조.md"
   ]
 }
