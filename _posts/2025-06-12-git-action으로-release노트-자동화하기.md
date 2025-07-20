@@ -44,6 +44,7 @@ Git Action을 통해 main branch에 push가 발생했을 때 자동으로 기존
 ### 활용한 git action - "release-drafter"
 
 1. drafter 파일
+
 ```yaml
 # .github/workflows/drafter.yaml
 
@@ -70,6 +71,7 @@ jobs:
 ```
 
 2. drafter 파일의 설정 파일인 drafter-config 파일
+
 ```yaml
 commitish: main
 categories:
