@@ -110,6 +110,7 @@ template: |
 
 ##  적용 이후
 main branch에 push가 일어나면 release에 임시저장 상태인 **draft** 상태로 올라가게 된다.
+
 ![](https://i.imgur.com/b1vgbhB.png)
 
 
