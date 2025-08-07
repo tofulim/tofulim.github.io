@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-06-12-git-action으로-release노트-자동화하기.md",
+                "file": "_posts/2024-10-14-CKA-정리1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-12-git-action으로-release노트-자동화하기"
+              "title": "2024-10-14-CKA-정리1"
             }
           }
         ]
@@ -162,6 +162,7 @@
   },
   "active": "a802aa444ef7cdc5",
   "lastOpenFiles": [
+    "_posts/2025-06-12-git-action으로-release노트-자동화하기.md",
     "_posts/2025-06-27-Obsidian-활용한-일정관리-팁.md",
     "_site/posts/Obsidian-활용한-일정관리-팁/index.html",
     "_site/posts/Obsidian-활용한-일정관리-팁",
@@ -182,7 +183,6 @@
     "_tabs/about.md",
     "preview & time managing.md",
     "_posts/2025-07-03.md",
-    "_posts/2025-06-12-git-action으로-release노트-자동화하기.md",
     "_posts/2025-06-13-BitNet-논문-번역.md",
     "_posts/2025-01-07-clip-모델-논문-번역.md",
     "_posts/2025-01-21-k8s-local-image-사용하기.md",
