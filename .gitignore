@@ -24,5 +24,4 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
-
-
+.obsidian
