@@ -24,8 +24,12 @@ order: 4
 ---
 ## **<span style="color:orange">Car</span>eer**
 
+#### 룰루랩
+- 2025.09.15 -  
+- AI 팀 MLOps Engineer
+
 #### 디메타
-- 2024.06.17 -  
+- 2024.06.17 -  2025.09.12
 - AI 팀 Engineer
 
 #### 튜닙 (정규직)
