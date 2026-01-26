@@ -50,6 +50,7 @@ order: 4
 
 ---
 ## **<span style="color:orange">Cert</span>ificate**
+- AWS DevOps Engineer - Professional (2025.01.25)
 - OPIc - IH (2025.01.26)
 - Certified Kubernetes Administrator (CKA) (2024.10.13)
 - AWS Solutions Architect - Associate (2023.05.29)
