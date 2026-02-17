@@ -101,6 +101,10 @@ bash docker-setup.sh
 
 ![](https://i.imgur.com/BWMkmkq.png)
 
+## 내가 만든 obsidian agent
+![](https://i.imgur.com/3CKwWP4.png)
+
+
 ---
 +참조한 블로그
 https://contents.premium.naver.com/codetree/funcoding/contents/260208003733025lb
